@@ -1,3 +1,13 @@
-#rides, #under-43 {
+#rides, #under-43{
   display: none;
+}
+
+.highlight {
+  background-color: yellow;
+  padding: 2px;
+}
+
+.highlight-tall {
+  background-color: red;
+  padding: 2px;
 }

@@ -6,4 +6,7 @@ $(document).ready(function(){
 } else {
     $('#under-43').show();
   }
+  if(question > 72) {
+    $(".tall").addClass("highlight-tall")
+  }
 });
